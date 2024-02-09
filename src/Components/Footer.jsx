@@ -29,7 +29,7 @@ export default function Footer() {
         </div>
     </div>
     <div className='text-center copyright'>
-        <p>Copyright © Your Website 2021</p>
+        <p className='copyright'>Copyright © Your Website 2021</p>
     </div>
 
     
