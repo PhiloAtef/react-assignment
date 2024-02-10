@@ -42,3 +42,10 @@
   background-color: white;
   display: block;
 }
+
+.blueish-text{
+  color: var(--primary-color);
+}
+.blueish-span{
+  background-color: var(--primary-color);
+}
