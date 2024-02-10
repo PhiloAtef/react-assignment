@@ -14,17 +14,31 @@
   background-color: var(--primary-color);
 }
 
-.footer{
-  background-color: var(--primary-color);
-}
+
 
 .card{
   background-color: var(--primary-color);
   border: transparent;
 }
 
-.copyright{
-  color: white;
+
+.icons{
+  color: white !important;
+}
+.footer-cards{
+  background-color: var(--primary-color);
+}
+.footer-text{
   background-color: #1A252F;
 }
+.about-section{
+  background-color: var(--secondary-color);
+}
 
+.star{
+  height: 4px;
+  width: 100px;
+  margin-top: 5px;
+  background-color: white;
+  display: block;
+}
